@@ -1,0 +1,1 @@
+C:\Program Files\Blender Foundation\Blender 4.1\blender.exe C:\Users\A.azoulay\Desktop\wfc folder\wfc08\wfc\rock.blend --python C:\Users\A.azoulay\Desktop\wfc folder\wfc08\export_tile.py -- "C:\Users\A.azoulay\Desktop\wfc folder\wfc08\wfc\Content\wfc\TEST"
